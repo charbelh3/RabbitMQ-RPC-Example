@@ -1,4 +1,5 @@
-RabbitMQ example of the request-reply pattern using NodeJS (Typescript)
+RabbitMQ example of the request-reply pattern using NodeJS (Typescript).
+
 We have 2 microservices : RPC-Client and RPC_Server
 
 Both of them play the roles of a Consumer and a Producer.
